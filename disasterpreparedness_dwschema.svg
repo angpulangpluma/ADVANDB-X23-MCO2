@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="93cm" height="30cm" viewBox="-601 16 1851 593" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="379" y="150" width="218.5" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="379" y="150" width="218.5" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="488.25" y="164">hpq_disasterpreparedness</text>
+    <rect style="fill: #ffffff" x="379" y="168" width="218.5" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="379" y="168" width="218.5" height="100"/>
+    <polygon style="fill: #000000" points="382,178 384,181 386,178 384,175 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="388" y="184">disasterpreparednessid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="567.4" y="184">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="388" y1="185.6" x2="590.5" y2="185.6"/>
+    <ellipse style="fill: #000000" cx="384" cy="194" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="388" y="200">respondentinfoid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="567.4" y="200">int</text>
+    <ellipse style="fill: #000000" cx="384" cy="210" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="388" y="216">disasterexpid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="567.4" y="216">int</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="384" cy="226" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="388" y="232">disasteraffectid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="567.4" y="232">int</text>
+    <ellipse style="fill: #000000" cx="384" cy="242" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="388" y="248">dpkitrecid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="567.4" y="248">int</text>
+    <ellipse style="fill: #000000" cx="384" cy="258" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="388" y="264">evacexpid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="567.4" y="264">int</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="73" y="166" width="218.5" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="73" y="166" width="218.5" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="182.25" y="180">hpq_respondentinfo</text>
+    <rect style="fill: #ffffff" x="73" y="184" width="218.5" height="308"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="73" y="184" width="218.5" height="308"/>
+    <polygon style="fill: #000000" points="76,194 78,197 80,194 78,191 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="82" y="200">disasterpreparednessid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="261.4" y="200">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="82" y1="201.6" x2="284.5" y2="201.6"/>
+    <polygon style="fill: #000000" points="76,210 78,213 80,210 78,207 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="82" y="216">hpq_hh_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="261.4" y="216">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="82" y1="217.6" x2="284.5" y2="217.6"/>
+    <ellipse style="fill: #000000" cx="78" cy="226" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="82" y="232">pwdrecid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="261.4" y="232">int</text>
+    <ellipse style="fill: #000000" cx="78" cy="242" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="82" y="248">civstatid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="261.4" y="248">int</text>
+    <ellipse style="fill: #000000" cx="78" cy="258" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="82" y="264">locid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="261.4" y="264">int</text>
+    <ellipse style="fill: #000000" cx="78" cy="274" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="82" y="280">houserecid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="261.4" y="280">int</text>
+    <ellipse style="fill: #000000" cx="78" cy="290" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="82" y="296">jobrecid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="261.4" y="296">int</text>
+    <ellipse style="fill: #000000" cx="78" cy="306" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="82" y="312">garbcareid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="261.4" y="312">int</text>
+    <ellipse style="fill: #000000" cx="78" cy="322" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="82" y="328">progmemrecid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="261.4" y="328">int</text>
+    <ellipse style="fill: #000000" cx="78" cy="338" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="82" y="344">edurecid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="261.4" y="344">int</text>
+    <ellipse style="fill: #000000" cx="78" cy="354" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="82" y="360">sex</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="261.4" y="360">int</text>
+    <ellipse style="fill: #000000" cx="78" cy="370" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="82" y="376">age</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="261.4" y="376">int</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="78" cy="386" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="82" y="392">ethgrp</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="261.4" y="392">int</text>
+    <ellipse style="fill: #000000" cx="78" cy="402" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="82" y="408">ofwind</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="261.4" y="408">int</text>
+    <ellipse style="fill: #000000" cx="78" cy="418" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="82" y="424">pregind</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="261.4" y="424">int</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="78" cy="434" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="82" y="440">relnid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="261.4" y="440">int</text>
+    <ellipse style="fill: #000000" cx="78" cy="450" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="82" y="456">voterind</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="261.4" y="456">int</text>
+    <ellipse style="fill: #000000" cx="78" cy="466" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="82" y="472">votedind</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="261.4" y="472">int</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="78" cy="482" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="82" y="488">crimerecid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="261.4" y="488">int</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="764" y="216" width="218.5" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="764" y="216" width="218.5" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="873.25" y="230">hpq_disasteraffect</text>
+    <rect style="fill: #ffffff" x="764" y="234" width="218.5" height="164"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="764" y="234" width="218.5" height="164"/>
+    <polygon style="fill: #000000" points="767,244 769,247 771,244 769,241 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="773" y="250">disasterpreparednessid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="952.4" y="250">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="773" y1="251.6" x2="975.5" y2="251.6"/>
+    <ellipse style="fill: #000000" cx="769" cy="260" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="773" y="266">disasteraffectid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="952.4" y="266">int</text>
+    <ellipse style="fill: #000000" cx="769" cy="276" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="773" y="282">disasterid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="952.4" y="282">int</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="769" cy="292" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="773" y="298">lowharvind</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="952.4" y="298">int</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="769" cy="308" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="773" y="314">changecropind</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="952.4" y="314">int</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="769" cy="324" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="773" y="330">lesslivestockind</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="952.4" y="330">int</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="769" cy="340" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="773" y="346">lessfishind</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="952.4" y="346">int</text>
+    <ellipse style="fill: #000000" cx="769" cy="356" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="773" y="362">tempriseind</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="952.4" y="362">int</text>
+    <ellipse style="fill: #000000" cx="769" cy="372" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="773" y="378">sealevelchngeind</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="952.4" y="378">int</text>
+    <ellipse style="fill: #000000" cx="769" cy="388" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="773" y="394">lesswtrspplyind</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="952.4" y="394">int</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="766" y="65" width="218.5" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="766" y="65" width="218.5" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="875.25" y="79">hpq_disasterexp</text>
+    <rect style="fill: #ffffff" x="766" y="83" width="218.5" height="116"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="766" y="83" width="218.5" height="116"/>
+    <polygon style="fill: #000000" points="769,93 771,96 773,93 771,90 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="775" y="99">disasterpreparednessid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="954.4" y="99">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="775" y1="100.6" x2="977.5" y2="100.6"/>
+    <ellipse style="fill: #000000" cx="771" cy="109" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="775" y="115">disasterexpid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="954.4" y="115">int</text>
+    <ellipse style="fill: #000000" cx="771" cy="125" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="775" y="131">disasterid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="954.4" y="131">int</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="771" cy="141" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="775" y="147">freqid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="954.4" y="147">int</text>
+    <ellipse style="fill: #000000" cx="771" cy="157" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="775" y="163">freqcnt</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="954.4" y="163">int</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="771" cy="173" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="775" y="179">duryr</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="954.4" y="179">int</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="771" cy="189" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="775" y="195">durmnth</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="954.4" y="195">int</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="376" y="309" width="218.5" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="376" y="309" width="218.5" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="485.25" y="323">hpq_evacexp</text>
+    <rect style="fill: #ffffff" x="376" y="327" width="218.5" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="376" y="327" width="218.5" height="52"/>
+    <polygon style="fill: #000000" points="379,337 381,340 383,337 381,334 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="385" y="343">disasterpreparednessid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="564.4" y="343">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="385" y1="344.6" x2="587.5" y2="344.6"/>
+    <ellipse style="fill: #000000" cx="381" cy="353" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="385" y="359">evacind</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="564.4" y="359">int</text>
+    <ellipse style="fill: #000000" cx="381" cy="369" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="385" y="375">evaccntrid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="564.4" y="375">int</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="762" y="413" width="218.5" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="762" y="413" width="218.5" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="871.25" y="427">hpq_dpkitrec</text>
+    <rect style="fill: #ffffff" x="762" y="431" width="218.5" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="762" y="431" width="218.5" height="52"/>
+    <polygon style="fill: #000000" points="765,441 767,444 769,441 767,438 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="771" y="447">disasterpreparednessid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="950.4" y="447">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="771" y1="448.6" x2="973.5" y2="448.6"/>
+    <ellipse style="fill: #000000" cx="767" cy="457" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="771" y="463">hasdpkitind</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="950.4" y="463">int</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="767" cy="473" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="771" y="479">dpcontentrecid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="950.4" y="479">int</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="379,194 379,194 301.236,194 "/>
+    <polygon style="fill: #000000" points="293.736,194 303.736,189 301.236,194 303.736,199 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="293.736,194 303.736,189 301.236,194 303.736,199 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="383" y="190">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="295.5" y="206">n</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="597.5,210 736.127,210 736.127,93 756.264,93 "/>
+    <polygon style="fill: #000000" points="763.764,93 753.764,98 756.264,93 753.764,88 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="763.764,93 753.764,98 756.264,93 753.764,88 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="601.5" y="206">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="762" y="89">n</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="597.5,226 744.504,226 744.504,244 754.264,244 "/>
+    <polygon style="fill: #000000" points="761.764,244 751.764,249 754.264,244 751.764,239 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="761.764,244 751.764,249 754.264,244 751.764,239 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="601.5" y="222">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="760" y="240">n</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="597.5,242 736.504,242 736.504,441 752.264,441 "/>
+    <polygon style="fill: #000000" points="759.764,441 749.764,446 752.264,441 749.764,436 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="759.764,441 749.764,446 752.264,441 749.764,436 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="601.5" y="238">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="758" y="437">n</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="597.5,258 617.5,258 617.5,337 604.236,337 "/>
+    <polygon style="fill: #000000" points="596.736,337 606.736,332 604.236,337 606.736,342 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="596.736,337 606.736,332 604.236,337 606.736,342 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="601.5" y="254">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="598.5" y="333">n</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="405.45" y="410" width="149.2" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="405.45" y="410" width="149.2" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="480.05" y="424">hpq_evaccntr</text>
+    <rect style="fill: #ffffff" x="405.45" y="428" width="149.2" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="405.45" y="428" width="149.2" height="36"/>
+    <polygon style="fill: #000000" points="408.45,438 410.45,441 412.45,438 410.45,435 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="414.45" y="444">evaccntrid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="516.85" y="444">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="414.45" y1="445.6" x2="539.95" y2="445.6"/>
+    <ellipse style="fill: #000000" cx="410.45" cy="454" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="414.45" y="460">evaccntrdesc</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="516.85" y="460">text</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1031.5" y="411" width="218.5" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1031.5" y="411" width="218.5" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1140.75" y="425">hpq_dpcontentrec</text>
+    <rect style="fill: #ffffff" x="1031.5" y="429" width="218.5" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1031.5" y="429" width="218.5" height="68"/>
+    <ellipse style="fill: #000000" cx="1036.5" cy="439" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1040.5" y="445">disasterpreparednessid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1219.9" y="445">int</text>
+    <ellipse style="fill: #000000" cx="1036.5" cy="455" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1040.5" y="461">dpcontentrecid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1219.9" y="461">int</text>
+    <ellipse style="fill: #000000" cx="1036.5" cy="471" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1040.5" y="477">dpitemid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1219.9" y="477">int</text>
+    <ellipse style="fill: #000000" cx="1036.5" cy="487" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1040.5" y="493">dpitemcnt</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1219.9" y="493">int</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="824.502" y="16" width="40.7" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="824.502" y="16" width="40.7" height="18"/>
+    <text font-size="11.1992" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="844.852" y="30">Table</text>
+    <rect style="fill: #ffffff" x="824.502" y="34" width="40.7" height="4"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="824.502" y="34" width="40.7" height="4"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1086.5" y="97" width="149.2" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1086.5" y="97" width="149.2" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1161.1" y="111">hpq_disaster</text>
+    <rect style="fill: #ffffff" x="1086.5" y="115" width="149.2" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1086.5" y="115" width="149.2" height="36"/>
+    <polygon style="fill: #000000" points="1089.5,125 1091.5,128 1093.5,125 1091.5,122 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1095.5" y="131">disasterid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1197.9" y="131">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="1095.5" y1="132.6" x2="1221" y2="132.6"/>
+    <ellipse style="fill: #000000" cx="1091.5" cy="141" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1095.5" y="147">disasterdesc</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1197.9" y="147">text</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="594.5,369 614.5,369 614.5,438 564.386,438 "/>
+    <polygon style="fill: #000000" points="556.886,438 566.886,433 564.386,438 566.886,443 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="556.886,438 566.886,433 564.386,438 566.886,443 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="598.5" y="365">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="558.65" y="434">n</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-587" y="198" width="118.4" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-587" y="198" width="118.4" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-527.8" y="212">hpq_pwdrec</text>
+    <rect style="fill: #ffffff" x="-587" y="216" width="118.4" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-587" y="216" width="118.4" height="52"/>
+    <polygon style="fill: #000000" points="-584,226 -582,229 -580,226 -582,223 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-578" y="232">pwdrecid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-498.7" y="232">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-578" y1="233.6" x2="-475.6" y2="233.6"/>
+    <ellipse style="fill: #000000" cx="-582" cy="242" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-578" y="248">pwdind</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-498.7" y="248">int</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="-582" cy="258" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-578" y="264">pwdtypeid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-498.7" y="264">int</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="980.5,473 1006,473 1006,439 1021.77,439 "/>
+    <polygon style="fill: #000000" points="1029.27,439 1019.27,444 1021.77,439 1019.27,434 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1029.27,439 1019.27,444 1021.77,439 1019.27,434 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="984.5" y="469">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="1027.5" y="435">n</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="984.5,125 1042,125 1042,125 1076.77,125 "/>
+    <polygon style="fill: #000000" points="1084.27,125 1074.27,130 1076.77,125 1074.27,120 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1084.27,125 1074.27,130 1076.77,125 1074.27,120 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="988.5" y="121">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="1082.5" y="121">n</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="982.5,276 1034.5,276 1034.5,125 1076.77,125 "/>
+    <polygon style="fill: #000000" points="1084.27,125 1074.27,130 1076.77,125 1074.27,120 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1084.27,125 1074.27,130 1076.77,125 1074.27,120 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="986.5" y="272">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="1082.5" y="121">n</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-591.601" y="308" width="126.1" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-591.601" y="308" width="126.1" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-528.551" y="322">hpq_pwdtype</text>
+    <rect style="fill: #ffffff" x="-591.601" y="326" width="126.1" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-591.601" y="326" width="126.1" height="36"/>
+    <ellipse style="fill: #000000" cx="-586.601" cy="336" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-582.601" y="342">pwdtypeid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-503.301" y="342">int</text>
+    <ellipse style="fill: #000000" cx="-586.601" cy="352" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-582.601" y="358">pwddesc</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-503.301" y="358">text</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-468.6,258 -422.522,258 -422.522,336 -455.765,336 "/>
+    <polygon style="fill: #000000" points="-463.265,336 -453.265,331 -455.765,336 -453.265,341 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-463.265,336 -453.265,331 -455.765,336 -453.265,341 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-464.6" y="254">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-461.501" y="332">n</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="73,226 73,226 -458.864,226 "/>
+    <polygon style="fill: #000000" points="-466.364,226 -456.364,221 -458.864,226 -456.364,231 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-466.364,226 -456.364,221 -458.864,226 -456.364,231 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="69" y="222">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-464.6" y="222">n</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-388.522" y="233" width="141.5" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-388.522" y="233" width="141.5" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-317.772" y="247">hpq_civstat</text>
+    <rect style="fill: #ffffff" x="-388.522" y="251" width="141.5" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-388.522" y="251" width="141.5" height="36"/>
+    <polygon style="fill: #000000" points="-385.522,261 -383.522,264 -381.522,261 -383.522,258 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-379.522" y="267">civstatid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-284.822" y="267">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-379.522" y1="268.6" x2="-261.722" y2="268.6"/>
+    <ellipse style="fill: #000000" cx="-383.522" cy="277" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-379.522" y="283">civstatdesc</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-284.822" y="283">text</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="73,242 -224.844,242 -224.844,261 -237.286,261 "/>
+    <polygon style="fill: #000000" points="-244.786,261 -234.786,256 -237.286,261 -234.786,266 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-244.786,261 -234.786,256 -237.286,261 -234.786,266 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="69" y="238">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-243.022" y="257">n</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-359.522" y="297" width="103" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-359.522" y="297" width="103" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-308.022" y="311">hpq_location</text>
+    <rect style="fill: #ffffff" x="-359.522" y="315" width="103" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-359.522" y="315" width="103" height="100"/>
+    <polygon style="fill: #000000" points="-356.522,325 -354.522,328 -352.522,325 -354.522,322 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-350.522" y="331">locid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-286.622" y="331">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-350.522" y1="332.6" x2="-263.522" y2="332.6"/>
+    <ellipse style="fill: #000000" cx="-354.522" cy="341" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-350.522" y="347">munid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-286.622" y="347">int</text>
+    <ellipse style="fill: #000000" cx="-354.522" cy="357" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-350.522" y="363">zoneid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-286.622" y="363">int</text>
+    <ellipse style="fill: #000000" cx="-354.522" cy="373" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-350.522" y="379">brgyid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-286.622" y="379">int</text>
+    <ellipse style="fill: #000000" cx="-354.522" cy="389" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-350.522" y="395">purokid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-286.622" y="395">int</text>
+    <ellipse style="fill: #000000" cx="-354.522" cy="405" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-350.522" y="411">hcn</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-286.622" y="411">int</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="73,258 -215.844,258 -215.844,325 -246.786,325 "/>
+    <polygon style="fill: #000000" points="-254.286,325 -244.286,320 -246.786,325 -244.286,330 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-254.286,325 -244.286,320 -246.786,325 -244.286,330 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="69" y="254">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-252.522" y="321">n</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-583.475" y="374" width="87.6" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-583.475" y="374" width="87.6" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-539.675" y="388">hpq_mun</text>
+    <rect style="fill: #ffffff" x="-583.475" y="392" width="87.6" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-583.475" y="392" width="87.6" height="20"/>
+    <polygon style="fill: #000000" points="-580.475,402 -578.475,405 -576.475,402 -578.475,399 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-574.475" y="408">munid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-525.975" y="408">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-574.475" y1="409.6" x2="-502.875" y2="409.6"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-592.475" y="422" width="95.3" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-592.475" y="422" width="95.3" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-544.825" y="436">hpq_zone</text>
+    <rect style="fill: #ffffff" x="-592.475" y="440" width="95.3" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-592.475" y="440" width="95.3" height="20"/>
+    <polygon style="fill: #000000" points="-589.475,450 -587.475,453 -585.475,450 -587.475,447 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-583.475" y="456">zoneid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-527.275" y="456">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-583.475" y1="457.6" x2="-504.175" y2="457.6"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-590.475" y="469" width="95.3" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-590.475" y="469" width="95.3" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-542.825" y="483">hpq_brgy</text>
+    <rect style="fill: #ffffff" x="-590.475" y="487" width="95.3" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-590.475" y="487" width="95.3" height="20"/>
+    <polygon style="fill: #000000" points="-587.475,497 -585.475,500 -583.475,497 -585.475,494 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-581.475" y="503">brgyid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-525.275" y="503">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-581.475" y1="504.6" x2="-502.175" y2="504.6"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-600.475" y="518" width="103" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-600.475" y="518" width="103" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-548.975" y="532">hpq_purok</text>
+    <rect style="fill: #ffffff" x="-600.475" y="536" width="103" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-600.475" y="536" width="103" height="20"/>
+    <polygon style="fill: #000000" points="-597.475,546 -595.475,549 -593.475,546 -595.475,543 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-591.475" y="552">purokid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-527.575" y="552">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-591.475" y1="553.6" x2="-504.475" y2="553.6"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-359.522,341 -427.699,341 -427.699,402 -486.139,402 "/>
+    <polygon style="fill: #000000" points="-493.639,402 -483.639,397 -486.139,402 -483.639,407 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-493.639,402 -483.639,397 -486.139,402 -483.639,407 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="-363.522" y="337">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-491.875" y="398">n</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-359.522,357 -412.475,357 -412.475,450 -487.439,450 "/>
+    <polygon style="fill: #000000" points="-494.939,450 -484.939,445 -487.439,450 -484.939,455 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-494.939,450 -484.939,445 -487.439,450 -484.939,455 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="-363.522" y="353">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-493.175" y="446">n</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-359.522,373 -396.475,373 -396.475,497 -485.439,497 "/>
+    <polygon style="fill: #000000" points="-492.939,497 -482.939,492 -485.439,497 -482.939,502 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-492.939,497 -482.939,492 -485.439,497 -482.939,502 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="-363.522" y="369">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-491.175" y="493">n</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-361.475,386 -379.475,386 -379.475,546 -487.739,546 "/>
+    <polygon style="fill: #000000" points="-495.239,546 -485.239,541 -487.739,546 -485.239,551 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-495.239,546 -485.239,541 -487.739,546 -485.239,551 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="-365.475" y="382">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-493.475" y="542">n</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-202.652" y="277" width="126.1" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-202.652" y="277" width="126.1" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-139.602" y="291">hpq_houserec</text>
+    <rect style="fill: #ffffff" x="-202.652" y="295" width="126.1" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-202.652" y="295" width="126.1" height="20"/>
+    <polygon style="fill: #000000" points="-199.652,305 -197.652,308 -195.652,305 -197.652,302 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-193.652" y="311">houserecid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-106.652" y="311">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-193.652" y1="312.6" x2="-83.5519" y2="312.6"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-169.625" y="329" width="110.7" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-169.625" y="329" width="110.7" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-114.275" y="343">hpq_jobrec</text>
+    <rect style="fill: #ffffff" x="-169.625" y="347" width="110.7" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-169.625" y="347" width="110.7" height="20"/>
+    <polygon style="fill: #000000" points="-166.625,357 -164.625,360 -162.625,357 -164.625,354 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-160.625" y="363">jobrecid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-89.0252" y="363">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-160.625" y1="364.6" x2="-65.9252" y2="364.6"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-182.625" y="379" width="126.1" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-182.625" y="379" width="126.1" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-119.575" y="393">hpq_garbcare</text>
+    <rect style="fill: #ffffff" x="-182.625" y="397" width="126.1" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-182.625" y="397" width="126.1" height="20"/>
+    <polygon style="fill: #000000" points="-179.625,407 -177.625,410 -175.625,407 -177.625,404 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-173.625" y="413">garbcareid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-86.6252" y="413">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-173.625" y1="414.6" x2="-63.5252" y2="414.6"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-185.625" y="432" width="118.4" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-185.625" y="432" width="118.4" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-126.425" y="446">hpq_progmem</text>
+    <rect style="fill: #ffffff" x="-185.625" y="450" width="118.4" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-185.625" y="450" width="118.4" height="36"/>
+    <ellipse style="fill: #000000" cx="-180.625" cy="460" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-176.625" y="466">progmemid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-97.3252" y="466">int</text>
+    <ellipse style="fill: #000000" cx="-180.625" cy="476" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-176.625" y="482">hpq_hh_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-97.3252" y="482">int</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-170.625" y="500" width="110.7" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-170.625" y="500" width="110.7" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-115.275" y="514">hpq_edurec</text>
+    <rect style="fill: #ffffff" x="-170.625" y="518" width="110.7" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-170.625" y="518" width="110.7" height="20"/>
+    <polygon style="fill: #000000" points="-167.625,528 -165.625,531 -163.625,528 -165.625,525 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-161.625" y="534">edurecid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-90.0252" y="534">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-161.625" y1="535.6" x2="-66.9252" y2="535.6"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="112.375" y="535" width="126.1" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="112.375" y="535" width="126.1" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="175.425" y="549">hpq_crimerec</text>
+    <rect style="fill: #ffffff" x="112.375" y="553" width="126.1" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="112.375" y="553" width="126.1" height="36"/>
+    <ellipse style="fill: #000000" cx="117.375" cy="563" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="121.375" y="569">hpq_hh_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="208.375" y="569">int</text>
+    <ellipse style="fill: #000000" cx="117.375" cy="579" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="121.375" y="585">crimerecid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="208.375" y="585">int</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-168.625" y="555" width="110.7" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-168.625" y="555" width="110.7" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-113.275" y="569">hpq_reln</text>
+    <rect style="fill: #ffffff" x="-168.625" y="573" width="110.7" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-168.625" y="573" width="110.7" height="36"/>
+    <polygon style="fill: #000000" points="-165.625,583 -163.625,586 -161.625,583 -163.625,580 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-159.625" y="589">relnid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-95.7252" y="589">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-159.625" y1="590.6" x2="-72.6252" y2="590.6"/>
+    <ellipse style="fill: #000000" cx="-163.625" cy="599" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-159.625" y="605">reldesc</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-95.7252" y="605">text</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="73,274 -54.5974,274 -54.5974,305 -66.8159,305 "/>
+    <polygon style="fill: #000000" points="-74.3159,305 -64.3159,300 -66.8159,305 -64.3159,310 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-74.3159,305 -64.3159,300 -66.8159,305 -64.3159,310 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="69" y="270">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-72.5519" y="301">n</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="73,290 -35.5974,290 -35.5974,357 -49.1891,357 "/>
+    <polygon style="fill: #000000" points="-56.6891,357 -46.6891,352 -49.1891,357 -46.6891,362 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-56.6891,357 -46.6891,352 -49.1891,357 -46.6891,362 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="69" y="286">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-54.9252" y="353">n</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="73,306 8.23739,306 8.23739,407 -46.7891,407 "/>
+    <polygon style="fill: #000000" points="-54.2891,407 -44.2891,402 -46.7891,407 -44.2891,412 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-54.2891,407 -44.2891,402 -46.7891,407 -44.2891,412 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="69" y="302">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-52.5252" y="403">n</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="76.4026,326 19.4026,326 19.4026,460 -57.4891,460 "/>
+    <polygon style="fill: #000000" points="-64.9891,460 -54.9891,455 -57.4891,460 -54.9891,465 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-64.9891,460 -54.9891,455 -57.4891,460 -54.9891,465 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="72.4026" y="322">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-63.2252" y="456">n</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="73,338 33.4026,338 33.4026,528 -50.1891,528 "/>
+    <polygon style="fill: #000000" points="-57.6891,528 -47.6891,523 -50.1891,528 -47.6891,533 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-57.6891,528 -47.6891,523 -50.1891,528 -47.6891,533 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="69" y="334">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-55.9252" y="524">n</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="73,434 46.4026,434 46.4026,583 -48.1891,583 "/>
+    <polygon style="fill: #000000" points="-55.6891,583 -45.6891,578 -48.1891,583 -45.6891,588 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-55.6891,583 -45.6891,578 -48.1891,583 -45.6891,588 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="69" y="430">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-53.9252" y="579">n</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="291.5,482 311.5,482 311.5,579 248.211,579 "/>
+    <polygon style="fill: #000000" points="240.711,579 250.711,574 248.211,579 250.711,584 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="240.711,579 250.711,574 248.211,579 250.711,584 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="295.5" y="478">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="242.475" y="575">n</text>
+  </g>
+</svg>
